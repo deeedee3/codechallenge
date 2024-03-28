@@ -17,7 +17,7 @@ else{
         }
     }
 }
-
+console.log(checkSpeed(60))
  
 
 

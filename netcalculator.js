@@ -1,5 +1,4 @@
 // This function calculates the net salary based on the provided inputs.
-
 function calculateNetSalary(basicSalary, benefits) {
   // Constants for tax rates
   const taxRates = [
@@ -58,4 +57,4 @@ function calculateNSSF(grossPay) {
 }
 
 // Example usage
-console.log(calculateNetSalary(60000, 10000));
+console.log(calculateNetSalary(600000, 10000));
